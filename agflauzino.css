@@ -2598,7 +2598,7 @@ li   a:hover::after {
 
 .contact-form {
     background-color: #000000;
-    padding: 20px 200px;
+    padding: 20px 0px;
     border-radius: 10px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
